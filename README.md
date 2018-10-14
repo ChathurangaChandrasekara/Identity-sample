@@ -15,7 +15,7 @@ Asp .net Core 2.0
     "DefaultConnection": "Data Source=Sql servername;Initial Catalog=YourDatabaseName;Integrated Security=True"
   },
 ```
-### Add migreation cmd using package manager console (go UnitOfWorkWithRepositoryPartens.Data using package manager console)
+### Add migreation cmd using package manager console 
 
 ```Add-Migration InitialCreate```
 ```Update-Database```
