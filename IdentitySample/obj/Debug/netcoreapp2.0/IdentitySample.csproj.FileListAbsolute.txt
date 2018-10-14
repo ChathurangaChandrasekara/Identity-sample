@@ -1,0 +1,12 @@
+c:\users\rika\source\repos\IdentitySample\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.deps.json
+c:\users\rika\source\repos\IdentitySample\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.runtimeconfig.json
+c:\users\rika\source\repos\IdentitySample\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.runtimeconfig.dev.json
+c:\users\rika\source\repos\IdentitySample\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.dll
+c:\users\rika\source\repos\IdentitySample\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.pdb
+c:\users\rika\source\repos\IdentitySample\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.csproj.CoreCompileInputs.cache
+c:\users\rika\source\repos\IdentitySample\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.AssemblyInfoInputs.cache
+c:\users\rika\source\repos\IdentitySample\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.AssemblyInfo.cs
+c:\users\rika\source\repos\IdentitySample\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.dll
+c:\users\rika\source\repos\IdentitySample\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.pdb
+c:\users\rika\source\repos\IdentitySample\IdentitySample\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\rika\source\repos\IdentitySample\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.csprojResolveAssemblyReference.cache
